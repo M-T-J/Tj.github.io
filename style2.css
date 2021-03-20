@@ -1,0 +1,17 @@
+
+body{
+    background: black;
+}
+
+.profile{
+    margin: 200px 400px;
+    padding: 0;
+    position: relative;
+    text-align: right;
+    
+}
+
+img{
+    width: 200px;
+    
+}
